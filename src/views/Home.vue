@@ -244,16 +244,16 @@ export default {
     return {
       carousel: [
         {
-          background: '/intelligent-innovations/slider/slide.svg',
-          image: '/intelligent-innovations/slider/phone.png',
+          background: '/intelligent-innovations/img/slider/slide.svg',
+          image: '/intelligent-innovations/img/slider/phone.png',
           intro: 'Best Deals of All time on',
           content: 'PRODUCT (GADGETS)',
           detail:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et'
         },
         {
-          background: '/intelligent-innovations/slider/slide.svg',
-          image: '/intelligent-innovations/slider/laundry.png',
+          background: '/intelligent-innovations/img/slider/slide.svg',
+          image: '/intelligent-innovations/img/slider/laundry.png',
           intro: 'Best Deals of All time on',
           content: 'SERVICES (LAUNDRY)',
           detail:
@@ -262,14 +262,14 @@ export default {
       ],
       productsCarousel: [
         {
-          background: '/intelligent-innovations/slider/slim-bg.svg',
-          image: '/intelligent-innovations/slider/sneakers.png',
+          background: '/intelligent-innovations/img/slider/slim-bg.svg',
+          image: '/intelligent-innovations/img/slider/sneakers.png',
           intro: 'BEST BRANDS',
           discount: '40%'
         },
         {
-          background: '/intelligent-innovations/slider/slim-bg.svg',
-          image: '/intelligent-innovations/slider/mower.png',
+          background: '/intelligent-innovations/img/slider/slim-bg.svg',
+          image: '/intelligent-innovations/img/slider/mower.png',
           intro: 'Get Services with',
           discount: '60%'
         }
@@ -283,37 +283,37 @@ export default {
       ],
       products: [
         {
-          image: '/intelligent-innovations/products/camera.jpg',
+          image: '/intelligent-innovations/img/products/camera.jpg',
           name: 'DJI Osmo Active Camera',
           isProduct: true,
           price: '$40.90'
         },
         {
-          image: '/intelligent-innovations/products/phone.jpg',
+          image: '/intelligent-innovations/img/products/phone.jpg',
           name: ' Xiaomi Redmi Note 7',
           isProduct: true,
           price: '$699.99'
         },
         {
-          image: '/intelligent-innovations/products/watering-can.png',
+          image: '/intelligent-innovations/img/products/watering-can.png',
           name: 'AB Gardening',
           isProduct: false,
           price: '$12.99'
         },
         {
-          image: '/intelligent-innovations/products/sneakers.jpg',
+          image: '/intelligent-innovations/img/products/sneakers.jpg',
           name: 'Adidas Pink RapidaRun Trainers',
           isProduct: true,
           price: '$52.00'
         },
         {
-          image: '/intelligent-innovations/products/laundry.png',
+          image: '/intelligent-innovations/img/products/laundry.png',
           name: 'AB Laundry',
           isProduct: false,
           price: '$2.99+'
         },
         {
-          image: '/intelligent-innovations/products/camera.jpg',
+          image: '/intelligent-innovations/img/products/camera.jpg',
           name: 'DJI Osmo Active Camera',
           isProduct: true,
           price: '$40.90'
@@ -321,21 +321,21 @@ export default {
       ],
       testimonials: [
         {
-          image: '/intelligent-innovations/users/user-1.png',
+          image: '/intelligent-innovations/img/users/user-1.png',
           name: 'Adam Sendler',
           type: 'Product Merchant',
           testimony:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.'
         },
         {
-          image: '/intelligent-innovations/users/user-2.png',
+          image: '/intelligent-innovations/img/users/user-2.png',
           name: 'John Doe',
           type: 'Service Merchant',
           testimony:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.'
         },
         {
-          image: '/intelligent-innovations/users/user-3.png',
+          image: '/intelligent-innovations/img/users/user-3.png',
           name: 'Jane Doe',
           type: 'Product Merchant',
           testimony:
