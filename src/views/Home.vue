@@ -69,7 +69,11 @@
               <div>Cleaning, Laundry, Gardening, Data Services</div>
             </div>
             <div>
-              <img src="/img/slider/laundry.png" alt="" width="70px" />
+              <img
+                src="/intelligent-innovations/img/slider/laundry.png"
+                alt=""
+                width="70px"
+              />
             </div>
           </div>
         </v-card>
