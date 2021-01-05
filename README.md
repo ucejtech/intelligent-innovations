@@ -1,24 +1,21 @@
 # intelligent-innovations
 
+![Deploy to github pages](https://github.com/ucejtech/intelligent-innovations/workflows/Deploy%20to%20github%20pages/badge.svg?branch=main)
+
+## Requirements
+
+- Nodejs
+- Git
+
 ## Project setup
+
 ```
+git clone https://github.com/ucejtech/intelligent-innovations.git
+
 npm install
+
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## URL
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The project is hosted at [https://ucejtech.github.io/intelligent-innovations/](https://ucejtech.github.io/intelligent-innovations/)
